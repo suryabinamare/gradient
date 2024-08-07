@@ -160,9 +160,9 @@ elif page == "Directional Derivatives":
     col3, col4 = st.columns(2)
     with col3:
         # Display an image from a local file
-        st.image("C:/Users/surya/OneDrive/Desktop/Data Science Projects/GradientDescent/directionvector1.png", caption="Direction vector with $\\theta$", use_column_width=True)
+        st.image("directionvector1.png", caption="Direction vector with $\\theta$", use_column_width=True)
     with col4:
-        st.image("C:/Users/surya/OneDrive/Desktop/Data Science Projects/GradientDescent/directionvector2.png", caption="Direction vector between two points", use_column_width=True)
+        st.image("directionvector2.png", caption="Direction vector between two points", use_column_width=True)
 
 
 
